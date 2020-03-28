@@ -7,4 +7,5 @@ class Backer
   
 end
 
-def backed_projects(projecg)
+def backed_projects(project)
+  @project = project
